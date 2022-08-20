@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600954977,
+      "id": 4647001,
+      "lead_time": 8.341,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "3CXwz3KVuW",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                43.833333333333336,
+                58.166666666666664
+              ],
+              [
+                57.333333333333336,
+                50.666666666666664
+              ],
+              [
+                62.666666666666664,
+                43.5
+              ],
+              [
+                41.666666666666664,
+                55
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "8El_i3gs4Z",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                14.166666666666666,
+                59.666666666666664
+              ],
+              [
+                15.333333333333334,
+                56.333333333333336
+              ],
+              [
+                11.666666666666666,
+                55.5
+              ],
+              [
+                11.333333333333334,
+                58.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/b87406aea46432c550eb56d938522560-46251_2019-03-20T10:17:48.342Z_8.png"
+  },
+  "id": 4647
+}

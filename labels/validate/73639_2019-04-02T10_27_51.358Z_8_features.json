@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600848331,
+      "id": 3757001,
+      "lead_time": 7.668,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "sPJSBKsbtu",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                55.833333333333336,
+                54
+              ],
+              [
+                51.5,
+                47
+              ],
+              [
+                48.166666666666664,
+                50.166666666666664
+              ],
+              [
+                54,
+                56.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/2cfc3f3c9abf2a94edddae6d455b37e3-73639_2019-04-02T10:27:51.358Z_8.png"
+  },
+  "id": 3757
+}

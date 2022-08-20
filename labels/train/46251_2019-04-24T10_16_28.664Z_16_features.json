@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1600955034,
+      "id": 4655001,
+      "lead_time": 5.105,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "X3w-ByyGPS",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                45.666666666666664,
+                50.833333333333336
+              ],
+              [
+                49.333333333333336,
+                53.5
+              ],
+              [
+                53.666666666666664,
+                50.666666666666664
+              ],
+              [
+                51.833333333333336,
+                46.833333333333336
+              ],
+              [
+                47.166666666666664,
+                46.666666666666664
+              ],
+              [
+                44.166666666666664,
+                47.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/7bcba6a11c0c7fc42f446525b03bee9f-46251_2019-04-24T10:16:28.664Z_16.png"
+  },
+  "id": 4655
+}

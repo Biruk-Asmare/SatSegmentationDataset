@@ -1,0 +1,16 @@
+{
+  "completions": [
+    {
+      "created_at": 1601582417,
+      "id": 342001,
+      "lead_time": 8.8,
+      "result": [],
+      "skipped": true,
+      "was_cancelled": true
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/f573c77a598aaec420f7ce570e2402d8-78446_2019-01-21T10:56:41.330Z_0.png"
+  },
+  "id": 342
+}

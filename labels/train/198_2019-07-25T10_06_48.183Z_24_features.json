@@ -1,0 +1,171 @@
+{
+  "completions": [
+    {
+      "created_at": 1600859659,
+      "id": 3794001,
+      "lead_time": 21.212,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Xs_U3GpgpW",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                32.5,
+                35.333333333333336
+              ],
+              [
+                33.666666666666664,
+                32.833333333333336
+              ],
+              [
+                30.5,
+                30.833333333333332
+              ],
+              [
+                27.5,
+                31.833333333333332
+              ],
+              [
+                26.5,
+                34.5
+              ],
+              [
+                28.833333333333332,
+                36.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Jz9dWZ4kxZ",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                76.66666666666667,
+                41.833333333333336
+              ],
+              [
+                79,
+                40
+              ],
+              [
+                80.66666666666667,
+                37.333333333333336
+              ],
+              [
+                75.5,
+                35.166666666666664
+              ],
+              [
+                72.33333333333333,
+                35.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "pBQ5wekwo0",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                85.83333333333333,
+                42.333333333333336
+              ],
+              [
+                90.83333333333333,
+                43.5
+              ],
+              [
+                88.16666666666667,
+                46.333333333333336
+              ],
+              [
+                86,
+                47.833333333333336
+              ],
+              [
+                81.5,
+                44.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "641lAB56m0",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                52.333333333333336,
+                57.333333333333336
+              ],
+              [
+                49.166666666666664,
+                55.5
+              ],
+              [
+                49,
+                53.833333333333336
+              ],
+              [
+                52,
+                54.166666666666664
+              ],
+              [
+                53.666666666666664,
+                55.666666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/67971a330685d3de4ec7c8bdf64f8a4c-198_2019-07-25T10:06:48.183Z_24.png"
+  },
+  "id": 3794
+}

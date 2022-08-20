@@ -1,0 +1,53 @@
+{
+  "completions": [
+    {
+      "created_at": 1600867441,
+      "id": 3907001,
+      "lead_time": 4.747,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ppB-LNtpSa",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                49.5,
+                47.333333333333336
+              ],
+              [
+                53,
+                50.333333333333336
+              ],
+              [
+                51.5,
+                53.333333333333336
+              ],
+              [
+                46.666666666666664,
+                52.333333333333336
+              ],
+              [
+                47.666666666666664,
+                49.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/17ceaef569f9c84ce9616ada4aa8e551-5176_2019-07-23T10:18:47.929Z_8.png"
+  },
+  "id": 3907
+}

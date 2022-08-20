@@ -1,0 +1,65 @@
+{
+  "completions": [
+    {
+      "created_at": 1601582580,
+      "id": 360001,
+      "lead_time": 5.004,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "glCSMP180s",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                48.5,
+                46.333333333333336
+              ],
+              [
+                46.666666666666664,
+                49.5
+              ],
+              [
+                49.166666666666664,
+                53.166666666666664
+              ],
+              [
+                52,
+                53
+              ],
+              [
+                54.833333333333336,
+                51.5
+              ],
+              [
+                55.5,
+                49
+              ],
+              [
+                54.166666666666664,
+                45.333333333333336
+              ],
+              [
+                50.833333333333336,
+                45.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/751be8ca320b937c81bbb0b380484f48-44612_2019-07-24T10:36:42.626Z_7.png"
+  },
+  "id": 360
+}

@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601579455,
+      "id": 189001,
+      "lead_time": 4.349,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "MOAIPhuCAT",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                41.333333333333336,
+                35.333333333333336
+              ],
+              [
+                40.666666666666664,
+                49.5
+              ],
+              [
+                47.5,
+                50.5
+              ],
+              [
+                56.333333333333336,
+                49.666666666666664
+              ],
+              [
+                56.666666666666664,
+                35.333333333333336
+              ],
+              [
+                45.833333333333336,
+                36.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/e60254282ca0c3afefaada323c7d4b55-239289_2019-03-01T09:49:53.801Z_4.png"
+  },
+  "id": 189
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1601584162,
+      "id": 476001,
+      "lead_time": 4.82,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Vof-b5hA-2",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46,
+                47.333333333333336
+              ],
+              [
+                54,
+                50.333333333333336
+              ],
+              [
+                52.5,
+                51.333333333333336
+              ],
+              [
+                47.166666666666664,
+                50.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/4d00bcd32fd0686610dc74663c6d49c6-158073_2019-06-04T10:37:29.477Z_7.png"
+  },
+  "id": 476
+}

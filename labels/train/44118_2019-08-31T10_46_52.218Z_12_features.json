@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600949012,
+      "id": 4482001,
+      "lead_time": 5.231,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Ntsc_geJyY",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                60.166666666666664,
+                47.166666666666664
+              ],
+              [
+                60.666666666666664,
+                52.166666666666664
+              ],
+              [
+                66,
+                51.666666666666664
+              ],
+              [
+                64.16666666666667,
+                46.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/e4e3a22f9fec851538d84ea00c51695a-44118_2019-08-31T10:46:52.218Z_12.png"
+  },
+  "id": 4482
+}

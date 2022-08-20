@@ -1,0 +1,61 @@
+{
+  "completions": [
+    {
+      "created_at": 1600858845,
+      "id": 3764001,
+      "lead_time": 9.663,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "JGV_coAvpe",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46.833333333333336,
+                47.5
+              ],
+              [
+                46.5,
+                51.166666666666664
+              ],
+              [
+                48.333333333333336,
+                52.833333333333336
+              ],
+              [
+                52.5,
+                53.166666666666664
+              ],
+              [
+                52.5,
+                51.166666666666664
+              ],
+              [
+                49.5,
+                49.166666666666664
+              ],
+              [
+                48.833333333333336,
+                46.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/d8918d2292ca40499f691fe5da65838b-19_2019-03-06T09:49:11.175Z_0.png"
+  },
+  "id": 3764
+}

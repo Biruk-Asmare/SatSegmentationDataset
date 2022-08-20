@@ -1,0 +1,91 @@
+{
+  "completions": [
+    {
+      "created_at": 1600948881,
+      "id": 4470001,
+      "lead_time": 10.982,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Ev03U3zVBA",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                52.666666666666664,
+                60.5
+              ],
+              [
+                51.166666666666664,
+                49.833333333333336
+              ],
+              [
+                52.333333333333336,
+                45.333333333333336
+              ],
+              [
+                47.666666666666664,
+                49
+              ],
+              [
+                45.5,
+                55.166666666666664
+              ],
+              [
+                50,
+                62.166666666666664
+              ],
+              [
+                52.833333333333336,
+                64
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ijBxzcX3Sa",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                17.5,
+                41.5
+              ],
+              [
+                17.5,
+                34.666666666666664
+              ],
+              [
+                12.666666666666666,
+                37.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/f93d4cd944cd5f7dc2cae2465ef908b4-67512_2019-11-15T10:12:12.347Z_16.png"
+  },
+  "id": 4470
+}

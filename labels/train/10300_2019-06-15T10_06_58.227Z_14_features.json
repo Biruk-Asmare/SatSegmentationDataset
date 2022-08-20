@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601583994,
+      "id": 456001,
+      "lead_time": 4.176,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "721A_MxDFH",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                49,
+                51.5
+              ],
+              [
+                51.666666666666664,
+                49.833333333333336
+              ],
+              [
+                52.166666666666664,
+                46.166666666666664
+              ],
+              [
+                48.666666666666664,
+                46.5
+              ],
+              [
+                47,
+                49.666666666666664
+              ],
+              [
+                47,
+                51
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/28e2a25be3c8118bed09fbb22830eee4-10300_2019-06-15T10:06:58.227Z_14.png"
+  },
+  "id": 456
+}

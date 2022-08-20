@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1600946980,
+      "id": 4390001,
+      "lead_time": 5.251,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EPeo-07YRT",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                43.333333333333336,
+                47
+              ],
+              [
+                51.333333333333336,
+                52.833333333333336
+              ],
+              [
+                52.666666666666664,
+                53.5
+              ],
+              [
+                51.833333333333336,
+                49
+              ],
+              [
+                49.166666666666664,
+                45.666666666666664
+              ],
+              [
+                44.833333333333336,
+                43.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/ac4e74fe5d9fd7b0c36d34ec67ac0ae6-239279_2019-05-22T09:33:37.305Z_11.png"
+  },
+  "id": 4390
+}

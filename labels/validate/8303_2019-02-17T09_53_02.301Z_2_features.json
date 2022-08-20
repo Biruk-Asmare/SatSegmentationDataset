@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600956355,
+      "id": 4734001,
+      "lead_time": 9.344,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4s27sPz4Ol",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                47.5,
+                35.333333333333336
+              ],
+              [
+                49.333333333333336,
+                32.666666666666664
+              ],
+              [
+                46.666666666666664,
+                33.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "ZI2bH8Y1Hu",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                90.33333333333333,
+                77.83333333333333
+              ],
+              [
+                94.66666666666667,
+                79.16666666666667
+              ],
+              [
+                89.66666666666667,
+                83.33333333333333
+              ],
+              [
+                85.83333333333333,
+                82.16666666666667
+              ],
+              [
+                88.33333333333333,
+                78.66666666666667
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/53c1e4c6925c742934b374c7064af1e5-8303_2019-02-17T09:53:02.301Z_2.png"
+  },
+  "id": 4734
+}

@@ -1,0 +1,87 @@
+{
+  "completions": [
+    {
+      "created_at": 1600940269,
+      "id": 4174001,
+      "lead_time": 10.999,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gujrBrW8tJ",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                36,
+                42.5
+              ],
+              [
+                36.833333333333336,
+                44.833333333333336
+              ],
+              [
+                34.666666666666664,
+                43.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "sBGCOU-Cj3",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                45.833333333333336,
+                47
+              ],
+              [
+                52.166666666666664,
+                50.166666666666664
+              ],
+              [
+                54.333333333333336,
+                51
+              ],
+              [
+                53.166666666666664,
+                53
+              ],
+              [
+                49.833333333333336,
+                52.833333333333336
+              ],
+              [
+                46.5,
+                49.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/7f94be4791e6f424b9ae0961d23d67a9-5944_2019-09-14T09:34:02.687Z_12.png"
+  },
+  "id": 4174
+}

@@ -1,0 +1,53 @@
+{
+  "completions": [
+    {
+      "created_at": 1600865280,
+      "id": 3828001,
+      "lead_time": 6.348,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "lvl-k_jHVR",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                47,
+                49.833333333333336
+              ],
+              [
+                51.666666666666664,
+                53.166666666666664
+              ],
+              [
+                52.166666666666664,
+                50.5
+              ],
+              [
+                50.833333333333336,
+                47.166666666666664
+              ],
+              [
+                45.833333333333336,
+                46.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/3eb7771f54aa82f92efdc8fbd9143161-3124_2019-08-23T10:37:26.411Z_20.png"
+  },
+  "id": 3828
+}

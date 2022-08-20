@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600868645,
+      "id": 3949001,
+      "lead_time": 6.42,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Kde43lPar7",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                50.333333333333336,
+                46.166666666666664
+              ],
+              [
+                53.333333333333336,
+                49.833333333333336
+              ],
+              [
+                49.833333333333336,
+                51.166666666666664
+              ],
+              [
+                48.333333333333336,
+                47.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/4b2e8db90a7c9e9710a4cea5426fdf32-412_2019-02-11T10:28:32.506Z_2.png"
+  },
+  "id": 3949
+}

@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601574829,
+      "id": 30001,
+      "lead_time": 5.052,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KEEogud1n6",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46.5,
+                46.666666666666664
+              ],
+              [
+                44.333333333333336,
+                51.5
+              ],
+              [
+                48,
+                55.833333333333336
+              ],
+              [
+                57,
+                54.833333333333336
+              ],
+              [
+                54,
+                48.666666666666664
+              ],
+              [
+                49.166666666666664,
+                46.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/7ac25e3ee28b2913c10888b55859dc1d-7125_2019-04-01T10:18:17.559Z_5.png"
+  },
+  "id": 30
+}

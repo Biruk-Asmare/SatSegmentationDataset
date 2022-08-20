@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1600867809,
+      "id": 3932001,
+      "lead_time": 6.201,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "jfQnT-gr10",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                50.333333333333336,
+                47.5
+              ],
+              [
+                53,
+                49.666666666666664
+              ],
+              [
+                52.666666666666664,
+                51.166666666666664
+              ],
+              [
+                51,
+                52.5
+              ],
+              [
+                48.333333333333336,
+                50.166666666666664
+              ],
+              [
+                47.5,
+                48
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/80fc6834e60391305394d6ee76b7ae50-300045_2019-10-22T09:47:11.118Z_18.png"
+  },
+  "id": 3932
+}

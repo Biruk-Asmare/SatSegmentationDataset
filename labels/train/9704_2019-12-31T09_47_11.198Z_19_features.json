@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601583302,
+      "id": 399001,
+      "lead_time": 5.875,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "QPO35CZEnt",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                40.166666666666664,
+                55.666666666666664
+              ],
+              [
+                48.833333333333336,
+                54.666666666666664
+              ],
+              [
+                57,
+                49.833333333333336
+              ],
+              [
+                54.166666666666664,
+                45.666666666666664
+              ],
+              [
+                50.5,
+                47.5
+              ],
+              [
+                45.166666666666664,
+                51.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/b0bec72bf2aa042a03fa56992656e725-9704_2019-12-31T09:47:11.198Z_19.png"
+  },
+  "id": 399
+}

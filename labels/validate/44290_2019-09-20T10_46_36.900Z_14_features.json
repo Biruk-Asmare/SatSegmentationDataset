@@ -1,0 +1,95 @@
+{
+  "completions": [
+    {
+      "created_at": 1601580161,
+      "id": 225001,
+      "lead_time": 8.047,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YEBbNyg7bQ",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                49.833333333333336,
+                58.666666666666664
+              ],
+              [
+                46.666666666666664,
+                55.666666666666664
+              ],
+              [
+                42.5,
+                56.333333333333336
+              ],
+              [
+                41.666666666666664,
+                58
+              ],
+              [
+                46.5,
+                61.333333333333336
+              ],
+              [
+                47,
+                61.833333333333336
+              ],
+              [
+                50.5,
+                60.666666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "TW1HoW33jB",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                26.5,
+                58.166666666666664
+              ],
+              [
+                23.5,
+                55.833333333333336
+              ],
+              [
+                23.166666666666668,
+                60.166666666666664
+              ],
+              [
+                26.5,
+                60.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/784a4d832e9010363e35de2b961807c8-44290_2019-09-20T10:46:36.900Z_14.png"
+  },
+  "id": 225
+}

@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601575649,
+      "id": 90001,
+      "lead_time": 5.197,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Xi_V-suSZG",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                56,
+                51.5
+              ],
+              [
+                55.666666666666664,
+                44
+              ],
+              [
+                49,
+                40
+              ],
+              [
+                42.5,
+                41.833333333333336
+              ],
+              [
+                45.333333333333336,
+                47.666666666666664
+              ],
+              [
+                49.666666666666664,
+                52.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/9a4f07f0a14799cc8cf7a4c16b829eb3-5807_2019-02-18T10:17:19.315Z_3.png"
+  },
+  "id": 90
+}

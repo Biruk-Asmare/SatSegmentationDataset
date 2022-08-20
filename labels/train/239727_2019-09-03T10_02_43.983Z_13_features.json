@@ -1,0 +1,65 @@
+{
+  "completions": [
+    {
+      "created_at": 1600867647,
+      "id": 3919001,
+      "lead_time": 5.543,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "POXU_KQ20F",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                48.666666666666664,
+                53.5
+              ],
+              [
+                51.666666666666664,
+                51.166666666666664
+              ],
+              [
+                55.666666666666664,
+                48.666666666666664
+              ],
+              [
+                54.166666666666664,
+                45.166666666666664
+              ],
+              [
+                51.833333333333336,
+                46.5
+              ],
+              [
+                48.5,
+                49
+              ],
+              [
+                46.166666666666664,
+                52.833333333333336
+              ],
+              [
+                47,
+                55
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/85f1341a30628bfc0c296ca7e1225ec6-239727_2019-09-03T10:02:43.983Z_13.png"
+  },
+  "id": 3919
+}

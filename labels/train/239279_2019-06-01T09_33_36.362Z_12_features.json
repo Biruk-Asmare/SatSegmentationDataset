@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600947123,
+      "id": 4391001,
+      "lead_time": 12.558,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "p7_drnvwuk",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                52.33331976982731,
+                51.500016954382545
+              ],
+              [
+                51.9999525277289,
+                49.8333418105246
+              ],
+              [
+                59,
+                48.333333333333336
+              ],
+              [
+                59.166666666666664,
+                50.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/5fef43142225d514a4d25b8e76d696bd-239279_2019-06-01T09:33:36.362Z_12.png"
+  },
+  "id": 4391
+}

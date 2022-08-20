@@ -1,0 +1,45 @@
+{
+  "completions": [
+    {
+      "created_at": 1600868758,
+      "id": 3956001,
+      "lead_time": 6.218,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Sh96BODpem",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                50.666659884913656,
+                51.16667005754317
+              ],
+              [
+                52.666659884913656,
+                49.16667005754317
+              ],
+              [
+                49.999993218246985,
+                48.333336724209836
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/f60048f3ed26accb48c1f3616b97cad3-412_2019-06-01T10:28:40.724Z_10.png"
+  },
+  "id": 3956
+}

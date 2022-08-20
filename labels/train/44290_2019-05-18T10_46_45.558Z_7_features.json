@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601580250,
+      "id": 218001,
+      "lead_time": 4.837,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "BnFwCMP44W",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                40.5,
+                53.833333333333336
+              ],
+              [
+                43.5,
+                59.666666666666664
+              ],
+              [
+                47,
+                60.5
+              ],
+              [
+                49.833333333333336,
+                58.166666666666664
+              ],
+              [
+                47.166666666666664,
+                54.5
+              ],
+              [
+                42.333333333333336,
+                53.666666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/2aad0320554308c9db9cb6362043fec3-44290_2019-05-18T10:46:45.558Z_7.png"
+  },
+  "id": 218
+}

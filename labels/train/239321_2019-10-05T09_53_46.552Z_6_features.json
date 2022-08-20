@@ -1,0 +1,53 @@
+{
+  "completions": [
+    {
+      "created_at": 1601579386,
+      "id": 181001,
+      "lead_time": 4.611,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "FckgDie4Py",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                51.166666666666664,
+                51.833333333333336
+              ],
+              [
+                53.666666666666664,
+                45.833333333333336
+              ],
+              [
+                46.5,
+                42.5
+              ],
+              [
+                45.333333333333336,
+                48
+              ],
+              [
+                49.166666666666664,
+                53
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/87ac107bd0819555831e7c0381671375-239321_2019-10-05T09:53:46.552Z_6.png"
+  },
+  "id": 181
+}

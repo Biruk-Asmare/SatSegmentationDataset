@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601584204,
+      "id": 481001,
+      "lead_time": 5.57,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KXsPcalIvt",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46.833333333333336,
+                47.833333333333336
+              ],
+              [
+                54.666666666666664,
+                50.333333333333336
+              ],
+              [
+                55.5,
+                52.5
+              ],
+              [
+                50.5,
+                54.5
+              ],
+              [
+                45.333333333333336,
+                53.666666666666664
+              ],
+              [
+                45.666666666666664,
+                50.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/22d08a686bd6bf350eb3822d0fe4593c-158073_2019-02-24T10:42:53.114Z_2.png"
+  },
+  "id": 481
+}

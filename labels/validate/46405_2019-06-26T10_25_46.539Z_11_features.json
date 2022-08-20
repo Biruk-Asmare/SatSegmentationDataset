@@ -1,0 +1,53 @@
+{
+  "completions": [
+    {
+      "created_at": 1601580564,
+      "id": 252001,
+      "lead_time": 4.12,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PM215PzZoD",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                56.666666666666664,
+                54.166666666666664
+              ],
+              [
+                56.333333333333336,
+                48.166666666666664
+              ],
+              [
+                50.333333333333336,
+                50.166666666666664
+              ],
+              [
+                50.666666666666664,
+                53.5
+              ],
+              [
+                52.833333333333336,
+                55.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/9128efcfb307075375a884b053b0bbda-46405_2019-06-26T10:25:46.539Z_11.png"
+  },
+  "id": 252
+}

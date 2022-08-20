@@ -1,0 +1,53 @@
+{
+  "completions": [
+    {
+      "created_at": 1600867267,
+      "id": 3893001,
+      "lead_time": 4.816,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "397VDlspSI",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                43.166666666666664,
+                43.333333333333336
+              ],
+              [
+                41.5,
+                46.5
+              ],
+              [
+                43.833333333333336,
+                47.5
+              ],
+              [
+                46.166666666666664,
+                47
+              ],
+              [
+                46.666666666666664,
+                44
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/f2a21668cfcf0740ff6dcd339b3e6f4e-4663_2019-09-15T09:56:43.881Z_23.png"
+  },
+  "id": 3893
+}

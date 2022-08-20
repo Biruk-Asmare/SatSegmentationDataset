@@ -1,0 +1,61 @@
+{
+  "completions": [
+    {
+      "created_at": 1600938817,
+      "id": 4120001,
+      "lead_time": 5.211,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "KFw-hGA1fp",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                50.5,
+                44.166666666666664
+              ],
+              [
+                50.666666666666664,
+                38.833333333333336
+              ],
+              [
+                55.5,
+                38.333333333333336
+              ],
+              [
+                57.166666666666664,
+                42.166666666666664
+              ],
+              [
+                56.333333333333336,
+                46.333333333333336
+              ],
+              [
+                51.5,
+                47.666666666666664
+              ],
+              [
+                49.166666666666664,
+                45.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/571c450c92eb430734ebeff82d82c430-4951_2019-08-31T09:56:10.833Z_32.png"
+  },
+  "id": 4120
+}

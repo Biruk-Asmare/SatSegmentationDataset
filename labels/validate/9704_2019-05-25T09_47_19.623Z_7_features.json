@@ -1,0 +1,45 @@
+{
+  "completions": [
+    {
+      "created_at": 1601583285,
+      "id": 411001,
+      "lead_time": 4.342,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "O5ZQs-B-ml",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                51,
+                50.333333333333336
+              ],
+              [
+                53.5,
+                51.166666666666664
+              ],
+              [
+                53.666666666666664,
+                49.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/18a37378be10e5efb1abdb3d6be4f097-9704_2019-05-25T09:47:19.623Z_7.png"
+  },
+  "id": 411
+}

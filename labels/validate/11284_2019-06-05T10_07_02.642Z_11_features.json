@@ -1,0 +1,87 @@
+{
+  "completions": [
+    {
+      "created_at": 1601584506,
+      "id": 512001,
+      "lead_time": 6.627,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "S7irBp6V5f",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                51.666666666666664,
+                48.166666666666664
+              ],
+              [
+                54.5,
+                46.833333333333336
+              ],
+              [
+                55,
+                45.833333333333336
+              ],
+              [
+                51,
+                42.666666666666664
+              ],
+              [
+                50.666666666666664,
+                46
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "3UE4AAhkS_",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46.833333333333336,
+                37
+              ],
+              [
+                45.333333333333336,
+                33.833333333333336
+              ],
+              [
+                41.5,
+                35.166666666666664
+              ],
+              [
+                43.666666666666664,
+                37.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/435ebbf87db6051b8f82dff647de1c10-11284_2019-06-05T10:07:02.642Z_11.png"
+  },
+  "id": 512
+}

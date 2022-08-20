@@ -1,0 +1,61 @@
+{
+  "completions": [
+    {
+      "created_at": 1600947501,
+      "id": 4415001,
+      "lead_time": 5.215,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "HIyTO990PK",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                43.666666666666664,
+                49
+              ],
+              [
+                48.833333333333336,
+                48
+              ],
+              [
+                56.166666666666664,
+                48
+              ],
+              [
+                55,
+                51.166666666666664
+              ],
+              [
+                48.166666666666664,
+                51.166666666666664
+              ],
+              [
+                44.5,
+                51.166666666666664
+              ],
+              [
+                43,
+                52
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/ac67cb8bc6e2c8f74e156d7f7b44046d-299065_2019-04-23T10:47:12.573Z_12.png"
+  },
+  "id": 4415
+}

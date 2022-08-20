@@ -1,0 +1,61 @@
+{
+  "completions": [
+    {
+      "created_at": 1600938694,
+      "id": 4073001,
+      "lead_time": 7.284,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "gCO-_GSIzo",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                47,
+                51.666666666666664
+              ],
+              [
+                51.333333333333336,
+                50.166666666666664
+              ],
+              [
+                55.666666666666664,
+                49.833333333333336
+              ],
+              [
+                54.333333333333336,
+                48
+              ],
+              [
+                51.333333333333336,
+                47.666666666666664
+              ],
+              [
+                47.166666666666664,
+                47.666666666666664
+              ],
+              [
+                45.833333333333336,
+                49.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/b53a2d686a9b2e418e90de8594046c95-46984_2019-04-19T10:21:23.072Z_11.png"
+  },
+  "id": 4073
+}

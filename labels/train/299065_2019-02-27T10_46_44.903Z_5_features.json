@@ -1,0 +1,91 @@
+{
+  "completions": [
+    {
+      "created_at": 1600947623,
+      "id": 4408001,
+      "lead_time": 12.95,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "vgyFTrc94H",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46.99998982737048,
+                53.66666836210492
+              ],
+              [
+                47.333323160703806,
+                49.333335028771586
+              ],
+              [
+                48.49998982737048,
+                46.00000169543825
+              ],
+              [
+                52.833323160703806,
+                46.333335028771586
+              ],
+              [
+                52.333323160703806,
+                52.333335028771586
+              ],
+              [
+                49.66665649403714,
+                57.33333502877158
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "l8AGb6IAd_",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                32.50000169543825,
+                55.500005086314765
+              ],
+              [
+                32.666666666666664,
+                48.333333333333336
+              ],
+              [
+                30.833333333333332,
+                50
+              ],
+              [
+                29.166666666666668,
+                56
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/c6e509e950b002ca4fe35ce791abdbec-299065_2019-02-27T10:46:44.903Z_5.png"
+  },
+  "id": 4408
+}

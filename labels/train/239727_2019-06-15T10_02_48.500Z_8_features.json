@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600867534,
+      "id": 3923001,
+      "lead_time": 5.522,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ULXXL_Gio0",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                49,
+                56
+              ],
+              [
+                55.833333333333336,
+                50
+              ],
+              [
+                52.5,
+                48.666666666666664
+              ],
+              [
+                47,
+                53.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/90e2983247a0d390b2d45615bffe0c31-239727_2019-06-15T10:02:48.500Z_8.png"
+  },
+  "id": 3923
+}

@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600942237,
+      "id": 4266001,
+      "lead_time": 7.441,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "f-ywhb0Bs5",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                49.5,
+                74.83333333333333
+              ],
+              [
+                51.333333333333336,
+                69.83333333333333
+              ],
+              [
+                47.333333333333336,
+                69.66666666666667
+              ],
+              [
+                48,
+                74.16666666666667
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "V1q9md68q5",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                53,
+                54.666666666666664
+              ],
+              [
+                52.833333333333336,
+                48.333333333333336
+              ],
+              [
+                50.333333333333336,
+                50.333333333333336
+              ],
+              [
+                51.166666666666664,
+                57.333333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/b7614cb3d9d8e4ec13d273538029309d-7199_2019-04-28T09:52:27.730Z_14.png"
+  },
+  "id": 4266
+}

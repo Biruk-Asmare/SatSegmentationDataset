@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1601580391,
+      "id": 236001,
+      "lead_time": 4.526,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "YR78meL_86",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                53.833333333333336,
+                53.666666666666664
+              ],
+              [
+                57.333333333333336,
+                49.5
+              ],
+              [
+                53.833333333333336,
+                46.333333333333336
+              ],
+              [
+                48.166666666666664,
+                49.833333333333336
+              ],
+              [
+                46,
+                53.666666666666664
+              ],
+              [
+                52.5,
+                56.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/e8dcdcab60b1203723659e350c77f723-43866_2019-06-27T10:46:45.324Z_7.png"
+  },
+  "id": 236
+}

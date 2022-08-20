@@ -1,0 +1,83 @@
+{
+  "completions": [
+    {
+      "created_at": 1600867528,
+      "id": 3918001,
+      "lead_time": 9.197,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "4Fr80MpL94",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                45.666666666666664,
+                48.666666666666664
+              ],
+              [
+                41.5,
+                53.833333333333336
+              ],
+              [
+                39.333333333333336,
+                52.333333333333336
+              ],
+              [
+                45.666666666666664,
+                45.666666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "Q9mUsrGyTj",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                56.5,
+                51.5
+              ],
+              [
+                54.333333333333336,
+                53.333333333333336
+              ],
+              [
+                56.5,
+                54.833333333333336
+              ],
+              [
+                59.333333333333336,
+                51.666666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/f3f14ef9587851edffc5f2bd0a8b17b1-239727_2019-09-06T10:12:40.551Z_14.png"
+  },
+  "id": 3918
+}

@@ -1,0 +1,65 @@
+{
+  "completions": [
+    {
+      "created_at": 1600942290,
+      "id": 4268001,
+      "lead_time": 6.612,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "Yzht1WJkKC",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                52.333333333333336,
+                55.166666666666664
+              ],
+              [
+                52.333333333333336,
+                50.833333333333336
+              ],
+              [
+                49.5,
+                45.333333333333336
+              ],
+              [
+                44.5,
+                46.166666666666664
+              ],
+              [
+                44.333333333333336,
+                48.333333333333336
+              ],
+              [
+                48,
+                51.5
+              ],
+              [
+                50.166666666666664,
+                57.333333333333336
+              ],
+              [
+                51.5,
+                58
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/2062092492d2a6ab871f0a364d87eef6-7199_2019-05-06T10:02:30.108Z_16.png"
+  },
+  "id": 4268
+}

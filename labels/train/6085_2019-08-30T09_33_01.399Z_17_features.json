@@ -1,0 +1,57 @@
+{
+  "completions": [
+    {
+      "created_at": 1600870046,
+      "id": 4061001,
+      "lead_time": 5.227,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "EpU-UwFPGl",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                45.00000508631476,
+                54.5
+              ],
+              [
+                47.833333333333336,
+                52.166666666666664
+              ],
+              [
+                46.333333333333336,
+                48.333333333333336
+              ],
+              [
+                43,
+                45
+              ],
+              [
+                40.166666666666664,
+                48.833333333333336
+              ],
+              [
+                40.666666666666664,
+                54.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/fee805ddb5a9b67238df02ee2ec8ea3b-6085_2019-08-30T09:33:01.399Z_17.png"
+  },
+  "id": 4061
+}

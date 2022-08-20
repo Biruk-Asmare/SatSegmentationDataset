@@ -1,0 +1,61 @@
+{
+  "completions": [
+    {
+      "created_at": 1600865583,
+      "id": 3840001,
+      "lead_time": 31.576,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "ZWCBl-CVFt",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                68.16666666666667,
+                63.833333333333336
+              ],
+              [
+                71.66666666666667,
+                67
+              ],
+              [
+                68.66666666666667,
+                71.16666666666667
+              ],
+              [
+                64.83333333333333,
+                75.5
+              ],
+              [
+                61.833333333333336,
+                75
+              ],
+              [
+                60.5,
+                70.33333333333333
+              ],
+              [
+                63.5,
+                66.66666666666667
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/09acc602f54d3142b3d6f43e2da0ceed-468_2019-03-29T10:12:21.131Z_7.png"
+  },
+  "id": 3840
+}

@@ -1,0 +1,49 @@
+{
+  "completions": [
+    {
+      "created_at": 1600955231,
+      "id": 4644001,
+      "lead_time": 4.938,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "x02_EZReuN",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                49.5,
+                51
+              ],
+              [
+                48.5,
+                46.833333333333336
+              ],
+              [
+                52.666666666666664,
+                47
+              ],
+              [
+                54.166666666666664,
+                48.833333333333336
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/fc24e7007acc9e6e140b72a504cbe4c0-46251_2019-02-18T10:16:13.400Z_5.png"
+  },
+  "id": 4644
+}

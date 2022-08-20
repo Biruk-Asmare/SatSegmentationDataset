@@ -1,0 +1,99 @@
+{
+  "completions": [
+    {
+      "created_at": 1601581569,
+      "id": 288001,
+      "lead_time": 9.004,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "PqSmI6l234",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                56.666666666666664,
+                55.166666666666664
+              ],
+              [
+                62.166666666666664,
+                53.333333333333336
+              ],
+              [
+                62,
+                48.833333333333336
+              ],
+              [
+                60,
+                45.833333333333336
+              ],
+              [
+                54.5,
+                46.5
+              ],
+              [
+                53,
+                51.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "id": "wlK6swgTWA",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                46.333333333333336,
+                50
+              ],
+              [
+                47.166666666666664,
+                47.5
+              ],
+              [
+                42.833333333333336,
+                44.666666666666664
+              ],
+              [
+                38.5,
+                49
+              ],
+              [
+                40.666666666666664,
+                56.5
+              ],
+              [
+                44,
+                54.166666666666664
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/4a7fb979ad459d7b292edb72cc200b6a-74740_2019-07-26T10:26:43.098Z_29.png"
+  },
+  "id": 288
+}

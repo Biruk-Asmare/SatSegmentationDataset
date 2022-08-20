@@ -1,0 +1,53 @@
+{
+  "completions": [
+    {
+      "created_at": 1600956422,
+      "id": 4747001,
+      "lead_time": 5.693,
+      "result": [
+        {
+          "from_name": "label",
+          "id": "hMBsfxFM-7",
+          "image_rotation": 0,
+          "original_height": 120,
+          "original_width": 120,
+          "parent_id": null,
+          "source": "$image",
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "points": [
+              [
+                47.833333333333336,
+                49.666666666666664
+              ],
+              [
+                55,
+                50.833333333333336
+              ],
+              [
+                60,
+                50.833333333333336
+              ],
+              [
+                53.833333333333336,
+                49.5
+              ],
+              [
+                46.166666666666664,
+                47.5
+              ]
+            ],
+            "polygonlabels": [
+              "smoke"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "http://localhost:8080/data/upload/4ad9102166991c29d223752f496f60e2-6879_2019-05-06T10:55:34.713Z_7.png"
+  },
+  "id": 4747
+}
